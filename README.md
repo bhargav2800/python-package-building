@@ -3,5 +3,5 @@ Example SDK demonstrating Python-based SDK development practices for integrating
 
 
 # Install as package
-- pip install git+https://github.com/bhargav2800/python-package-building.git@branch_or_tag_name
+- pip install git+https://github.com/bhargav2800/python-package-building.git@main
  
